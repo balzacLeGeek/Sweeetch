@@ -29,6 +29,6 @@
         "animate.css": "^3.7.2",
         "font-awesome": "^4.7.0",
         "minimist": "^1.2.2",
-        "tinymce": "^5.2.2"
+        "tinymce": "^5.4.0"
     }
 }
